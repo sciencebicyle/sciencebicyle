@@ -2,13 +2,5 @@ Hello, I'm science-bicyle! 👋🚴‍♂️
 Welcome to my page! Here, I share what I've learned along the way in various fields. My goal is to compile my knowledge and projects in one place, creating a useful resource for both myself and the community.
 
 My Interests:
-🤖 Artificial Intelligence (AI): Projects and research in machine learning and deep learning.
-📐 Mathematics: Working on mathematical problems and algorithms.
-🔐 Cryptography: Encryption algorithms and security protocols.
-🗃️ Databases: Exploring SQL and NoSQL database systems.
-💻 Hardware: Software development for hardware and embedded systems.
-🛠️ Low-Level Programming: System programming and efficient memory management.
-🐍 Python: Projects in data science, AI, and general software development.
-💼 .NET: Developing software using C# and the .NET platform.
+<table> <tr> <td>🤖</td> <td><b>Artificial Intelligence (AI):</b> Projects and research in machine learning and deep learning.</td> </tr> <tr> <td>📐</td> <td><b>Mathematics:</b> Working on mathematical problems and algorithms.</td> </tr> <tr> <td>🔐</td> <td><b>Cryptography:</b> Encryption algorithms and security protocols.</td> </tr> <tr> <td>🗃️</td> <td><b>Databases:</b> Exploring SQL and NoSQL database systems.</td> </tr> <tr> <td>💻</td> <td><b>Hardware:</b> Software development for hardware and embedded systems.</td> </tr> <tr> <td>🛠️</td> <td><b>Low-Level Programming:</b> System programming and efficient memory management.</td> </tr> <tr> <td>🐍</td> <td><b>Python:</b> Projects in data science, AI, and general software development.</td> </tr> <tr> <td>💼</td> <td><b>.NET:</b> Developing software using C# and the .NET platform.</td> </tr> </table>
 Feel free to explore my projects, check out the code, or contribute if something piques your interest! I'm always eager to learn new things and share them with others.
-
