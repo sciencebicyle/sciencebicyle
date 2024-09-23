@@ -1,16 +1,14 @@
-## Hi there 👋
+Hello, I'm science-bicyle! 👋🚴‍♂️
+Welcome to my page! Here, I share what I've learned along the way in various fields. My goal is to compile my knowledge and projects in one place, creating a useful resource for both myself and the community.
 
-<!--
-**sciencebicyle/sciencebicyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Interests:
+🤖 Artificial Intelligence (AI): Projects and research in machine learning and deep learning.
+📐 Mathematics: Working on mathematical problems and algorithms.
+🔐 Cryptography: Encryption algorithms and security protocols.
+🗃️ Databases: Exploring SQL and NoSQL database systems.
+💻 Hardware: Software development for hardware and embedded systems.
+🛠️ Low-Level Programming: System programming and efficient memory management.
+🐍 Python: Projects in data science, AI, and general software development.
+💼 .NET: Developing software using C# and the .NET platform.
+Feel free to explore my projects, check out the code, or contribute if something piques your interest! I'm always eager to learn new things and share them with others.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
